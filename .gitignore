@@ -1,0 +1,4 @@
+.venv/
+research_assistant_blueprint.md/
+__pycache__/
+.pytest_cache/
