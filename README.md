@@ -60,7 +60,7 @@ Academic research is growing rapidly, making it difficult for researchers and pr
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/deathvadeR-afk/RAG_research.git
 cd RAG_research_agent
 ```
 
